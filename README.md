@@ -57,8 +57,8 @@ Open public/login.html in your browser.
 All employee operations are protected using a JWT token. After login, the token is stored and used to authorize all further actions like view, edit, or delete.  
 
 # **📸 Screenshots**
-## **1.Register**  !(<img width="1914" height="1016" alt="Image" src="https://github.com/user-attachments/assets/d2d36321-93e9-4d47-987d-ac03f95ab948" />)  
-## **2.Login Page**  ![Screenshot 2025-06-26 062046](https://github.com/user-attachments/assets/d03f86f8-343f-49f3-8d22-7304b4bdd354)  
+## **1.Register**  <img width="1914" height="1016" alt="Image" src="https://github.com/user-attachments/assets/d2d36321-93e9-4d47-987d-ac03f95ab948" />
+## **2.Login Page** <img width="1889" height="1013" alt="Image" src="https://github.com/user-attachments/assets/21860098-04bb-45c9-bdaa-010d10ea26cb" />
  ## **3.Dashboard And CRUD Operations here**  ![Screenshot 2025-06-26 062614](https://github.com/user-attachments/assets/39675840-8a53-4ca0-898a-3a22eba2efc3)   
 
 # **📃 License**
