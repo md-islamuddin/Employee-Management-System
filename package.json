@@ -1,0 +1,30 @@
+{
+  "name": "employee-management-system",
+  "version": "1.0.0",
+  "description": "Employee Management System with CRUD operations",
+  "main": "backend/server.js",
+  "scripts": {
+    "start": "node backend/server.js",
+    "dev": "nodemon backend/server.js",
+    "install-deps": "npm install"
+  },
+  "dependencies": {
+    "bcryptjs": "^3.0.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.16.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  },
+  "keywords": [
+    "employee",
+    "management",
+    "crud",
+    "mongodb"
+  ],
+  "author": "",
+  "license": "MIT"
+}
