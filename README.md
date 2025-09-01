@@ -52,7 +52,7 @@ npm install
 node server.js   
 ## **Visit Frontend**
 Open public/login.html in your browser. 
-### **Setup environment variables**  
+## **Setup environment variables**  
 Create a .env file in the root folder and add:
 MONGODB_URI=your_mongodb_connection_string
 JWT_SECRET=your_secret_key
