@@ -51,7 +51,11 @@ npm install
 ## **Start the server**  
 node server.js   
 ## **Visit Frontend**
-Open public/login.html in your browser.   
+Open public/login.html in your browser. 
+### **Setup environment variables**  
+Create a .env file in the root folder and add:
+MONGODB_URI=your_mongodb_connection_string
+JWT_SECRET=your_secret_key
 
 # **🔒 Authentication**
 All employee operations are protected using a JWT token. After login, the token is stored and used to authorize all further actions like view, edit, or delete.  
